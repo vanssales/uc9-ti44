@@ -1,0 +1,6 @@
+//for(declaração;compara;um passo executa enquanto for verdade){
+
+
+for(let i=1; i<10; i+=2){
+    console.log(i);
+}
